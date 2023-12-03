@@ -1,1 +1,2 @@
 chile/DEIS/DEFUNCIONES_FUENTE_DEIS_1990_2020_CIFRAS_OFICIALES.csv filter=lfs diff=lfs merge=lfs -text
+chile/DEIS/Defunciones/DEFUNCIONES_FUENTE_DEIS_1990_2020_CIFRAS_OFICIALES.csv filter=lfs diff=lfs merge=lfs -text
