@@ -10,7 +10,7 @@ https://repositoriodeis.minsal.cl/DatosAbiertos/VITALES/DEFUNCIONES_FUENTE_DEIS_
 
 ## 2) Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)
 
-**Actualizados al 2023-11-28**
+*Actualizados al 2023-11-28*
 
 Fuente de datos:
 https://deis.minsal.cl/#datosabiertos
