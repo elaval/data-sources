@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/elaval/data-sources/main/chile/DEIS/Defuncione
 
 
 # Test
-## Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)
+## Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)
 
 *Actualizados al 2023-11-28*
 
