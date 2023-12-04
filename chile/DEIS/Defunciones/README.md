@@ -6,12 +6,12 @@ Fuente de datos:
 https://deis.minsal.cl/#datosabiertos
 https://repositoriodeis.minsal.cl/DatosAbiertos/VITALES/DEFUNCIONES_FUENTE_DEIS_1990_2020_CIFRAS_OFICIALES.zip
 
-<img width="1071" alt="image" src="https://github.com/elaval/data-sources/assets/68602/a5745eb8-af36-46cf-9e09-befbbf1bb166">
+<img width="1071" alt="image" src="https://github.com/elaval/data-sources/assets/68602/a5745eb8-af36-46cf-9e09-befbbf1bb166"></img>
 
 Archivo parquet descargable:
 https://raw.githubusercontent.com/elaval/data-sources/main/chile/DEIS/Defunciones/DEFUNCIONES_FUENTE_DEIS_1990_2020_CIFRAS_OFICIALES.parquet
 
-## 2) Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)
+## Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)
 
 *Actualizados al 2023-11-28*
 
