@@ -6,6 +6,7 @@ Archivos con datos oficiales de defunciones en Chile a partir de 1990
 https://raw.githubusercontent.com/elaval/data-sources/main/chile/DEIS/Defunciones/DEFUNCIONES_FUENTE_DEIS_1990_2020_CIFRAS_OFICIALES.parquet
 
 ### Fuente de datos:
+"Defunciones por Causa 1990 - 2020 CIFRAS OFICIALES", Datos Abiertos, DEIS, Ministerio de Salud
 https://deis.minsal.cl/#datosabiertos
 https://repositoriodeis.minsal.cl/DatosAbiertos/VITALES/DEFUNCIONES_FUENTE_DEIS_1990_2020_CIFRAS_OFICIALES.zip
 
@@ -16,6 +17,8 @@ https://repositoriodeis.minsal.cl/DatosAbiertos/VITALES/DEFUNCIONES_FUENTE_DEIS_
 https://raw.githubusercontent.com/elaval/data-sources/main/chile/DEIS/Defunciones/DEFUNCIONES_FUENTE_DEIS_2021_2023_28112023.parquet
 
 ### Fuente de datos:
+"Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)", Datos Abiertos, DEIS, Ministerio de Salud
+
 https://deis.minsal.cl/#datosabiertos
 https://repositoriodeis.minsal.cl/DatosAbiertos/VITALES/DEFUNCIONES_FUENTE_DEIS_2021_2023_28112023.zip
 
