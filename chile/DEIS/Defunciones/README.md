@@ -13,8 +13,7 @@ Archivo parquet descargable:
 https://raw.githubusercontent.com/elaval/data-sources/main/chile/DEIS/Defunciones/DEFUNCIONES_FUENTE_DEIS_1990_2020_CIFRAS_OFICIALES.parquet
 
 
-# Test
-## Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)
+## 2) Defunciones por Causa 2021 - 2023 CIFRAS PRELIMINARES (Actualización semanal)
 
 *Actualizados al 2023-11-28*
 
