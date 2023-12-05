@@ -1,12 +1,13 @@
 # Chile | INE | Proyecciones de población
 
 # Datos
-
+## Por comuna
 * https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/estimaciones-y-proyecciones-2002-2035-comuna-y-área-urbana-y-rural.parquet
 * https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/ine_estimaciones-y-proyecciones-2002-2035_base-2017_comunas.parquet
-* https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/ine_estimaciones-y-proyecciones-2002-2035_base-2017_país_área_base.parquet
+## Por región
 * https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/ine_estimaciones-y-proyecciones-2002-2035_base-2017_reg_área_base.parquet
 * https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/ine_estimaciones-y-proyecciones-2002-2035_base-2017_region_base.parquet
+## Pais
 * https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/ine_estimaciones-y-proyecciones-de-población-1992-2050_base-2017_base-de-datos_HOMBRES.parquet
 * https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/ine_estimaciones-y-proyecciones-de-población-1992-2050_base-2017_base-de-datos_MUJERES.parquet
 * https://github.com/elaval/data-sources/blob/main/chile/INE/Proyecciones_de_población/ine_estimaciones-y-proyecciones-de-población-1992-2050_base-2017_base-de-datos_TOTAL.parquet
