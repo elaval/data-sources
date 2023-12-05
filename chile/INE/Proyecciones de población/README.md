@@ -2,7 +2,7 @@
 
 # Datos
 ## 1) Estimaciones y proyecciones 2002-2035, comuna y área urbana y rural
-link
+https://raw.githubusercontent.com/elaval/data-sources/main/chile/INE/Proyecciones%20de%20poblaci%C3%B3n/estimaciones-y-proyecciones-2002-2035-comuna-y-%C3%A1rea-urbana-y-rural.parquet
 
 
 ### Fuente de datos:
@@ -10,12 +10,8 @@ link
 https://www.ine.gob.cl/docs/default-source/proyecciones-de-poblacion/cuadros-estadisticos/base-2017/estimaciones-y-proyecciones-2002-2035-comuna-y-%C3%A1rea-urbana-y-rural.csv?sfvrsn=62ba4af3_4&download=true
 
 
-## 2) Estimaciones y proyecciones 2002-2035, comunasCSV, 9.32 MB
-
-
-
-*Actualizados al 2023-11-28*<br>
-https://raw.githubusercontent.com/elaval/data-sources/main/chile/DEIS/Defunciones/DEFUNCIONES_FUENTE_DEIS_2021_2023_28112023.parquet
+## 2) Estimaciones y proyecciones 2002-2035, comunas
+https://raw.githubusercontent.com/elaval/data-sources/main/chile/INE/Proyecciones%20de%20poblaci%C3%B3n/ine_estimaciones-y-proyecciones-2002-2035_base-2017_comunas.parquet
 
 ### Fuente de datos:
 "Estimaciones y proyecciones 2002-2035", INE
