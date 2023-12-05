@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/elaval/data-sources/main/chile/INE/Proyeccione
 https://raw.githubusercontent.com/elaval/data-sources/main/chile/INE/Proyecciones%20de%20poblaci%C3%B3n/ine_estimaciones-y-proyecciones-2002-2035_base-2017_comunas.parquet
 
 ## 3) ine_estimaciones-y-proyecciones-2002-2035_base-2017_país_área_base.parquet
-[https://raw.githubusercontent.com/elaval/data-sources/main/chile/INE/Proyecciones%20de%20poblaci%C3%B3n/ine_estimaciones-y-proyecciones-2002-2035_base-2017_pa%C3%ADs_%C3%A1rea_base.parquet](https://raw.githubusercontent.com/elaval/data-sources/main/chile/INE/Proyecciones%20de%20poblaci%C3%B3n/ine_estimaciones-y-proyecciones-2002-2035_base-2017_pa%C3%ADs_%C3%A1rea_base.parquet)
+https://raw.githubusercontent.com/elaval/data-sources/main/chile/INE/Proyecciones%20de%20población/ine_estimaciones-y-proyecciones-2002-2035_base-2017_país_área_base.parquet
 
 ### Fuente de datos:
 "Estimaciones y proyecciones 2002-2035, comuna y área urbana y rural", INE
